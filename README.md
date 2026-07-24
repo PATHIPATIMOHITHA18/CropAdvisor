@@ -356,3 +356,18 @@ The chatbot provides practical agricultural guidance using the locally running Q
 # 👨‍💻 Author
 
 Developed as an AI-powered agricultural advisory system using Machine Learning, Deep Learning, Large Language Models, and real-time weather integration to support farmers in making informed agricultural decisions.
+
+<br />
+
+# 👥 Team Details
+
+**Team Name:** Data Dynamos
+
+**Team Leader:** Pathipati Mohitha
+
+**Team Members:**
+
+1. Modharapalem Chandana
+2. Nalabolu Sreeja
+3. Maddina Gowthami
+4. M Hemanth
