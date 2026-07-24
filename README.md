@@ -287,14 +287,15 @@ NPK 10-10-20
 **Input**
 
 ```
-Temperature
-Humidity
-Rainfall
+City : Chittoor
 ```
 
 **Output**
 
 ```
+Temperature : 33°C
+Humidity : 62%
+Rainfall : 4 mm
 Moderate irrigation is recommended based on the current weather conditions.
 ```
 
