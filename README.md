@@ -335,6 +335,10 @@ The chatbot provides practical agricultural guidance using the locally running Q
 
 <a id="working-model-ss"></a>
 
+# Demo Video
+
+https://1drv.ms/v/c/cb562ca602a93f68/IQAj-W-sTHNKQ6LAV_hXX4vxAWKTUJHFoXryYahR2UaKqZU?e=yyFhfE
+
 # Working Model Screenshots
 
 ![image](screenshots/crop_recommendation.png)
